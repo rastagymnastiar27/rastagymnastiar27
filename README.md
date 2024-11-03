@@ -64,9 +64,8 @@
 
 
 ## 🤝 Let's Connect!
-<p>I am a fast learner who is eager to adapt to new challenges and technologies. If you're interested in collaborating or want to connect, feel free to reach out!
-</p>
-
+<p>I am a fast learner who is eager to adapt to new challenges and technologies. If you're interested in collaborating or want to connect, feel free to reach out!</p>
+<p><strong>My email:</strong><a href="mailto:rasta.pidu2002@gmail.com" target="_blank" rel="noopener noreferrer"> rasta.pidu2002@gmail.com</a> </p>
 <div "display: flex; align-items: center; gap: 10px;">
 <a href="https://www.linkedin.com/in/rastagymnastiarpidu" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40"/>
@@ -74,9 +73,5 @@
 <a href="https://www.instagram.com/rastagymnastiarr" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" width="40" height="40"/>
 </a>
-<a href="mailto:rasta.pidu2002@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Email" width="40" height="40"/>
-</a>
-
 </div>
 
